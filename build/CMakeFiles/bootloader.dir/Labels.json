@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
