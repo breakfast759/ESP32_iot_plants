@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README of 11 Version1.0.1.20220531 RC  
 ## 1 Overview  
 * 修改了Kconfig/LVGL configuration/Feature configuring/Drawing/Default gradient buffer为32（原来为0）  
@@ -114,7 +113,3 @@ components中的LED组件，其中包含了几个不能用的函数，如果只�
 * 成功将LVGL8.2移植到了ESP32平台。  
 * 成功将LVGL文件系统进行了对接。  
 * 成功向LED组件中添加了PWM调光功能的代码。  
-=======
-# ESP32_iot_plants
-Source from IoT Project Course. Based on ESP32-WROOM-32E(16MB) Module, the environment is esp-idf-v4.4.
->>>>>>> 0cf9a264c6e5e9761f147466ddd3746d76984bb0
