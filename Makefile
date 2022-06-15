@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := 11_Version1.0.1.20220531_RC
+PROJECT_NAME := ESP32_iot_plants
 
 EXTRA_COMPONENT_DIRS = $(ESP_IDF)/examples/common_components/led_strip
 

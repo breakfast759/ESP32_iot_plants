@@ -2,8 +2,8 @@
  * @Author: Breakfast759
  * @Date: 2022-05-19 15:50:20
  * @LastEditors: Breakfast759
- * @LastEditTime: 2022-06-06 13:41:31
- * @FilePath: \11_Version1.0.1.20220531_RC\components\ui_display\ui_display.c
+ * @LastEditTime: 2022-06-15 23:18:17
+ * @FilePath: \ESP32_iot_plants\components\ui_display\ui_display.c
  * @Description: 
  * 
  * Copyright (c) 2022 by 514 Anti-Rolling Department, All Rights Reserved. 
@@ -120,7 +120,6 @@ extern int soil_humi_high_threshold_get;
 
 static int illuminance = 0;
 static int humi = 0;
-static int last_humi = 0;
 static int temp = 0;
 static int soil_humi = 0;
 // about device

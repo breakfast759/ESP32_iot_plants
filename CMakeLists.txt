@@ -6,4 +6,4 @@ set(EXTRA_COMPONENT_DIRS $ENV{ESP_IDF}/examples/common_components/led_strip
                          $ENV{ESP_IDF}/examples/common_components/protocol_examples_common)
 
 include($ENV{ESP_IDF}/tools/cmake/project.cmake)
-project(11_Version1.0.1.20220531_RC)
+project(ESP32_iot_plants)

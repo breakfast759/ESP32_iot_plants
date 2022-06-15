@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/bootloader/esp-idf/cmake_install.cmake")
+  include("G:/USBdriver_Backups/Learning_Area/Learned/IotProjectDesign/GardenOnTheCloud/SourceProgram/ESP32_iot_plants/build/bootloader/esp-idf/cmake_install.cmake")
 
 endif()
 
@@ -51,5 +51,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/bootloader/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "G:/USBdriver_Backups/Learning_Area/Learned/IotProjectDesign/GardenOnTheCloud/SourceProgram/ESP32_iot_plants/build/bootloader/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

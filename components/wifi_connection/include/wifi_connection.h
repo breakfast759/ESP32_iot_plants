@@ -2,8 +2,8 @@
  * @Author: Breakfast759
  * @Date: 2022-05-23 21:09:24
  * @LastEditors: Breakfast759
- * @LastEditTime: 2022-05-28 13:34:38
- * @FilePath: \9_Version1.0.0.20220523_Alpha\components\wifi_connection\include\wifi_connection.h
+ * @LastEditTime: 2022-06-15 23:07:15
+ * @FilePath: \ESP32_iot_plants\components\wifi_connection\include\wifi_connection.h
  * @Description: 
  * 
  * Copyright (c) 2022 by 514 Anti-Rolling Department, All Rights Reserved. 
@@ -43,8 +43,8 @@ extern "C" {
    If you'd rather not, just change the below entries to strings with
    the config you want - ie #define EXAMPLE_WIFI_SSID "mywifissid"
 */
-#define EXAMPLE_ESP_WIFI_SSID      "12306"
-#define EXAMPLE_ESP_WIFI_PASS      "zc20010623"
+#define EXAMPLE_ESP_WIFI_SSID      "mywifissid"
+#define EXAMPLE_ESP_WIFI_PASS      "mywifipass"
 #define EXAMPLE_ESP_MAXIMUM_RETRY  3
 /**********************
  *      TYPEDEFS

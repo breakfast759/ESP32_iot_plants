@@ -1,4 +1,4 @@
-# Install script for directory: G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/components/sd_fatfs_br759
+# Install script for directory: G:/USBdriver_Backups/Learning_Area/Learned/IotProjectDesign/GardenOnTheCloud/SourceProgram/ESP32_iot_plants/components/sd_fatfs_br759
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

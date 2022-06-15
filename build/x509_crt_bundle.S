@@ -1,4 +1,4 @@
-/* * Data converted from G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from G:/USBdriver_Backups/Learning_Area/Learned/IotProjectDesign/GardenOnTheCloud/SourceProgram/ESP32_iot_plants/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

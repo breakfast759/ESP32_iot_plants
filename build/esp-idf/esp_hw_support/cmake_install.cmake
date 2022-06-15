@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("G:/USBdriver_Backups/Learning_Area/Learning/IoT_Design/GardenOnTheCloud/SourceProgram/11_Version1.0.1.20220531_RC/build/esp-idf/esp_hw_support/port/esp32/cmake_install.cmake")
+  include("G:/USBdriver_Backups/Learning_Area/Learned/IotProjectDesign/GardenOnTheCloud/SourceProgram/ESP32_iot_plants/build/esp-idf/esp_hw_support/port/esp32/cmake_install.cmake")
 
 endif()
 
