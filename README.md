@@ -66,6 +66,7 @@ components中的LED组件，其中包含了几个不能用的函数，如果只�
         <td>No</td>
     </tr>
 </table>  
+
 ### Version 2.1.0.20220514 Base  
 * 将 *ui_display* 作为一个单独的组件从main组件中分离了出来，方便管理并优化编译链  
 * 实现了输入Wifi名称和Wifi密码后手动连接的功能  
@@ -105,7 +106,8 @@ components中的LED组件，其中包含了几个不能用的函数，如果只�
         <td>2M</td>
         <td>No</td>
     </tr>
-</table>
+</table>  
+
 ### Version 2.0.0.20220513 Base  
 * 优化了 *sd_fatfs_br759* 组件，将其中一些与初始化无关的读写测试程序从初始化程序（ *sd_fatfs_config(void)* ）中移了出来，加快了系统初始化速度。  
 * 基于LVGL8.2提供的demo *Show some widget* 设计了基本的界面，各个widget的回调函数已经定义好并已经能够实现一定的功能。  
